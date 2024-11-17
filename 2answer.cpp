@@ -7,10 +7,11 @@ pair<vector<int>, double> solve() {
     vector<int> dp(100, INT_MAX); 
     dp[0] = 0; 
     vector<int> res;
+    int yy=0;
     for (int i = 1; i < 100; ++i) {
         for (int unit : units) {
             if (i < unit) {
-                //adfljk;a
+                yy++;
             }
             else
             dp[i] = min(dp[i], dp[i - unit] + 1);
