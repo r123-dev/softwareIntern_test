@@ -1,0 +1,77 @@
+             MetaData of an item for amazon
+            
+1. Basic Product Information:
+Item ID: A unique identifier to differentiate products.
+Product Name/Title: A clear title describing the product (e.g., “Men’s Cotton T-Shirt” or “Wireless Headphones”).
+Product Description: A detailed overview highlighting the features, uses, and benefits of the product.
+Brand/Manufacturer: The product's brand or the name of its maker (e.g., “Nike”, “Sony”).
+Category: The product's classification (e.g., “Electronics”, “Clothing”, “Home Appliances”).
+SKU (Stock Keeping Unit): A unique code for inventory tracking.
+Product Type: Specific classification (e.g., “Shirt”, “Laptop”, “Washing Machine”).
+
+2. Pricing and Discounts:
+Price: The selling price of the item.
+Original Price: The pre-discount price, if applicable.
+Discount/Promotion: The applied discount or promotional offer (e.g., “10% off”).
+Currency: The currency in which the price is listed (USD, INR, etc.).
+Pricing Rules: Rules for dynamic pricing based on market trends, demand, or seasonality.
+
+3. Attributes Specific to Product Types:
+Size: Available sizes for clothing, shoes, etc. (e.g., M, L, XL for clothes, or 128GB, 256GB for electronics).
+Color: Color options available (e.g., Red, Black, Blue).
+Material: The materials the item is made of (e.g., cotton, leather, steel).
+Model Variants: For products like electronics, you may have variations such as different memory capacities or colors (e.g., 32GB vs 64GB storage).
+Customizations: For personalized items, like engraving options or custom prints.
+
+4. Inventory and Availability:
+Stock Quantity: The number of items available in the warehouse.
+Warehouse Location: Where the product is stored or shipped from.
+Restock Information: Expected dates for when the product will be available if it’s out of stock.
+
+5. Shipping Details:
+Weight and Dimensions: Critical for calculating shipping costs.
+Shipping Cost: The cost of delivery based on the item's size, weight, and destination.
+Shipping Restrictions: Any geographical or regional restrictions (e.g., "cannot ship to PO boxes").
+Delivery Time: Estimated delivery date depending on the shipping method.
+
+6. Images and Media:
+Image URLs: Links to product images showing various angles or features.
+Video URLs: Links to any promotional videos or product demonstrations.
+
+7. Ratings and Reviews:
+Customer Rating: The average rating (e.g., 4.5 stars out of 5).
+Review Count: The number of customer reviews the product has received.
+Review Text: Written feedback provided by customers, highlighting strengths or weaknesses.
+Rating Breakdown: Distribution of ratings (e.g., how many 5-star vs. 1-star reviews).
+
+8. Product Tags and Features:
+Tags: Keywords or categories used for product searchability (e.g., "eco-friendly", "gaming", "wireless").
+Features: Key product features, especially for electronics (e.g., "Noise-cancelling", "Water-resistant").
+Care Instructions (for clothing, furniture, etc.): How to maintain the product (e.g., "Hand wash", "Dry clean only").
+
+9. Lifecycle Information:
+Launch Date: When the product was first available on the platform.
+Expiration Date (for perishable items): The date the product expires (e.g., cosmetics, food items).
+Discontinuation Date: When the product will be removed from the platform.
+
+10. Return and Warranty Information:
+Return Policy: Conditions under which returns are allowed, such as "Return within 30 days".
+Warranty: Any warranty offered on the product (e.g., "2-year warranty").
+Exchange Policy: Information about exchanges (e.g., "Exchanges allowed within 15 days").
+
+11. Compliance and Certifications:
+Certifications: Any relevant certifications (e.g., “FDA approved”, “ISO certified”).
+Safety Warnings: Necessary for products that could be hazardous or need special handling (e.g., "Keep away from children").
+
+
+        Once metadata is stored, it can be used in several ways:
+
+Search and Discovery: Helps users find products through search, filters, and categories (e.g., size, color, brand).
+Product Recommendations: Drives personalized suggestions based on purchase history and preferences.
+Inventory Management: Tracks stock levels, warehouses, and restocking needs.
+Dynamic Pricing: Adjusts prices based on demand, promotions, and discounts.
+Shipping and Logistics: Calculates shipping costs, delivery times, and optimizes fulfillment.
+Customer Reviews: Displays ratings and feedback to build trust and improve products.
+Targeted Marketing: Uses tags and attributes for personalized promotions.
+Returns and Support: Handles returns and warranty claims based on product metadata.
+Product Lifecycle Management: Manages product availability, launch, and discontinuation dates.
